@@ -1,3 +1,3 @@
-# SDVspam
+# SDYspam
 di buat oleh 
-babang <<Mr_MSDV>>
+babang <<Sdy_ExE>>
