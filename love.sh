@@ -1,11 +1,11 @@
 
 clear
-toilet -f bigmono9 -F gay SDV SPAM
+toilet -f bigmono9 -F gay SDY SPAM
 sleep 1
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m #DARK FORCE ARMY"
 echo "\033[36;1m author by :"
-echo "\033[36;1m ™<<Mr_MSDV>>™ "
+echo "\033[36;1m ™<<SDY_EXE>>™ "
 echo "\033[32;1m Sebelum memilih spam,terlebih dahulu install bahan (08)"
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 
@@ -80,7 +80,7 @@ clear
 echo "\033[39;1m"
 toilet -f mono12 -F metal "INFO"
 echo "Dibuat oleh "
-echo "™<<Mr_MSDV>>™"
+echo "™<<SDY_EXE>>™"
 echo "versi 0.01"
 echo "SEMOGA KAU BAHAGIA DENGANNYA"
 echo ""
@@ -91,7 +91,7 @@ if [ $ezz = 08 ] || [ $ezz =8 ]
 then
 clear
 echo "Loading ----------------------------------"|lolcat
-sh install.sh
+sh berak.sh
 sh gco.sh
 fi
 
