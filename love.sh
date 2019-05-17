@@ -19,8 +19,6 @@ sleep 1
      echo "\033[33m   '(04)'MATHARIMALL"
      echo "\033[34m   '(05)'GRAB "
      echo "\033[33m   '(06)'TOKOPEDIA"
-sleep 1
-echo 
      echo "\033[36;1m    (07)INFO "
      echo "\033[36;1m    (08)Install Bahan"
      echo "\033[31m    (09)Keluar "
